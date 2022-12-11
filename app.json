@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.mazahir.reminder"
+      "package": "com.moaz.reminder"
     },
     "web": {
       "favicon": "./assets/favicon.png"
